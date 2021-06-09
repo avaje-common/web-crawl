@@ -1,0 +1,5002 @@
+[
+{
+  "title":"",
+  "caption":"",
+  "category":"Best Practice",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/best-practice"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"CI Testing",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/ci-testing"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"DB migrations",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/db-migrations"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"DDL Generation",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/ddl-generation"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/database"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Documentation",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Examples",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/examples"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Extra DDL",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/extra-ddl"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Features",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/features"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/getting-started"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/intro"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Kotlin",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/kotlin"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Logging",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/logging"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/mapping"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Monitoring",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/monitoring"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Multiple databases",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/multi-database"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Persist",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/persist"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Query",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/query"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Testing",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/testing"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/transactions"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Tuning",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/tuning"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Upgrading",
+  "priority":"0",
+  "keywords":"",
+  "url":"/docs/upgrading"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Change log",
+  "priority":"1",
+  "keywords":"",
+  "url":"/docs/features/changelog"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Draftable",
+  "priority":"1",
+  "keywords":"",
+  "url":"/docs/features/draftable"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"1",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Encryption",
+  "priority":"1",
+  "keywords":"",
+  "url":"/docs/features/encryption"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"History",
+  "priority":"1",
+  "keywords":"",
+  "url":"/docs/features/history"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"JSON Marshalling",
+  "priority":"1",
+  "keywords":"",
+  "url":"/docs/features/json"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"JSON in DB",
+  "priority":"1",
+  "keywords":"",
+  "url":"/docs/features/json-in-db"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"L2 Cache",
+  "priority":"1",
+  "keywords":"",
+  "url":"/docs/features/l2cache"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Multi-Tenant",
+  "priority":"1",
+  "keywords":"",
+  "url":"/docs/features/multi-tenant"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Read Auditing",
+  "priority":"1",
+  "keywords":"",
+  "url":"/docs/features/readauditing"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"SoftDelete",
+  "priority":"1",
+  "keywords":"",
+  "url":"/docs/features/softdelete"
+}
+,{
+  "title":"",
+  "caption":"",
+  "category":"Who Created Modified",
+  "priority":"1",
+  "keywords":"",
+  "url":"/docs/features/who"
+}
+,{
+  "title":"Configuration",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/intro/configuration"
+}
+,{
+  "title":"Configuration - For Testing with ddl.generation",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/intro/configuration#testing-ddl"
+}
+,{
+  "title":"Configuration - For Testing with ebean-test",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/intro/configuration#testing"
+}
+,{
+  "title":"Configuration - Programmatically creating database",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/intro/configuration#programmatic"
+}
+,{
+  "title":"Configuration - via Properties / yaml",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/intro/configuration#properties"
+}
+,{
+  "title":"Database & DB",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/intro/database"
+}
+,{
+  "title":"Database & DB - DB (io.ebean.DB)",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/intro/database#db"
+}
+,{
+  "title":"Database & DB - Database",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/intro/database#database"
+}
+,{
+  "title":"Database & DB - Ebean",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/intro/database#ebean"
+}
+,{
+  "title":"Database & DB - EbeanServer",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/intro/database#ebeanserver"
+}
+,{
+  "title":"First entity",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/intro/first-entity"
+}
+,{
+  "title":"First entity - First Entity",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/intro/first-entity"
+}
+,{
+  "title":"First entity - First Test",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/intro/first-entity"
+}
+,{
+  "title":"First entity - Run test",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/intro/first-entity"
+}
+,{
+  "title":"First entity / Constructors",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/intro/first-entity/constructors"
+}
+,{
+  "title":"First entity / MappedSuperclass",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/intro/first-entity/mapped-superclass"
+}
+,{
+  "title":"First entity / Model",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/intro/first-entity/model"
+}
+,{
+  "title":"First entity / Model - Model.save()",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/intro/first-entity/model"
+}
+,{
+  "title":"Limitations",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/intro/limitations"
+}
+,{
+  "title":"Limitations - JPA Mapping limitations",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/intro/limitations"
+}
+,{
+  "title":"Trouble shooting",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/trouble-shooting"
+}
+,{
+  "title":"Trouble shooting - Can't find a solution?",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/trouble-shooting"
+}
+,{
+  "title":"Trouble shooting - DataSource user is null?",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/trouble-shooting#datasource"
+}
+,{
+  "title":"Trouble shooting - NullPointerException in EntityBeanIntercept",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/trouble-shooting#npe-bean"
+}
+,{
+  "title":"Trouble shooting - NullPointerException using Query beans",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/trouble-shooting#npe-querybeans"
+}
+,{
+  "title":"Trouble shooting - RuntimeException: Is class org.example.domain.Foo registered?",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/trouble-shooting#registered"
+}
+,{
+  "title":"Trouble shooting - java.lang.IllegalStateException: Bean class _ is not enhanced?",
+  "caption":"",
+  "category":"Introduction",
+  "priority":"2",
+  "keywords":"",
+  "url":"/docs/trouble-shooting#not-enhanced"
+}
+,{
+  "title":"@Column(name=...)",
+  "caption":"",
+  "category":"Best Practice",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/best-practice#column-name"
+}
+,{
+  "title":"@JoinColumn",
+  "caption":"",
+  "category":"Best Practice",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/best-practice#join-column"
+}
+,{
+  "title":"Builder pattern",
+  "caption":"",
+  "category":"Best Practice",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/best-practice#builder-pattern"
+}
+,{
+  "title":"Bulk update queries",
+  "caption":"",
+  "category":"Best Practice",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/best-practice#bulk-update"
+}
+,{
+  "title":"DDL Generation",
+  "caption":"",
+  "category":"Best Practice",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/best-practice#ddl-generation"
+}
+,{
+  "title":"Database design mindset",
+  "caption":"",
+  "category":"Best Practice",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/best-practice#database-design-mindset"
+}
+,{
+  "title":"Getters Setters",
+  "caption":"",
+  "category":"Best Practice",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/best-practice#getters-setters"
+}
+,{
+  "title":"Identity - equals/hashCode",
+  "caption":"",
+  "category":"Best Practice",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/best-practice#identity"
+}
+,{
+  "title":"Kotlin data classes",
+  "caption":"",
+  "category":"Best Practice",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/best-practice#kotlin-data-class"
+}
+,{
+  "title":"Naming entity beans",
+  "caption":"",
+  "category":"Best Practice",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/best-practice#naming-entities"
+}
+,{
+  "title":"Prefer List over Set",
+  "caption":"",
+  "category":"Best Practice",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/best-practice#list"
+}
+,{
+  "title":"Promote use of NOT NULL constraint",
+  "caption":"",
+  "category":"Best Practice",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/best-practice#not-null"
+}
+,{
+  "title":"Reference beans",
+  "caption":"",
+  "category":"Best Practice",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/best-practice#reference-beans"
+}
+,{
+  "title":"Use @MappedSuperclass",
+  "caption":"",
+  "category":"Best Practice",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/best-practice#mapped-superclass"
+}
+,{
+  "title":"Use Constructors",
+  "caption":"",
+  "category":"Best Practice",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/best-practice#use-constructors"
+}
+,{
+  "title":"DB Migrations",
+  "caption":"",
+  "category":"DB migrations",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/db-migrations#db-migrations"
+}
+,{
+  "title":"Details",
+  "caption":"",
+  "category":"DB migrations",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/db-migrations/detail"
+}
+,{
+  "title":"Details - Apply DDL",
+  "caption":"",
+  "category":"DB migrations",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/db-migrations/detail#apply-ddl"
+}
+,{
+  "title":"Details - Applying pending drops",
+  "caption":"",
+  "category":"DB migrations",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/db-migrations/detail"
+}
+,{
+  "title":"Details - Generate offline",
+  "caption":"",
+  "category":"DB migrations",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/db-migrations/detail#programmatic"
+}
+,{
+  "title":"Details - Migration version and name",
+  "caption":"",
+  "category":"DB migrations",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/db-migrations/detail#version"
+}
+,{
+  "title":"Details - Migration xml",
+  "caption":"",
+  "category":"DB migrations",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/db-migrations/detail#migration-xml"
+}
+,{
+  "title":"Details - Output files",
+  "caption":"",
+  "category":"DB migrations",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/db-migrations/detail"
+}
+,{
+  "title":"Details - Repeatable migrations",
+  "caption":"",
+  "category":"DB migrations",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/db-migrations/detail#repeatable"
+}
+,{
+  "title":"Details - Running migration",
+  "caption":"",
+  "category":"DB migrations",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/db-migrations/detail#running"
+}
+,{
+  "title":"Details - Version format",
+  "caption":"",
+  "category":"DB migrations",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/db-migrations/detail#version-format"
+}
+,{
+  "title":"Generate a Migration",
+  "caption":"",
+  "category":"DB migrations",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/db-migrations#generate"
+}
+,{
+  "title":"Running migrations",
+  "caption":"",
+  "category":"DB migrations",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/db-migrations#run"
+}
+,{
+  "title":"DDL Generation",
+  "caption":"",
+  "category":"DDL Generation",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/ddl-generation#overview"
+}
+,{
+  "title":"Initial DDL",
+  "caption":"",
+  "category":"DDL Generation",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/ddl-generation#initSql"
+}
+,{
+  "title":"Seed DDL",
+  "caption":"",
+  "category":"DDL Generation",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/ddl-generation#seedSql"
+}
+,{
+  "title":"Using ebean-test",
+  "caption":"",
+  "category":"DDL Generation",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/ddl-generation#test-config"
+}
+,{
+  "title":"Using properties",
+  "caption":"",
+  "category":"DDL Generation",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/ddl-generation#properties"
+}
+,{
+  "title":"db-create-all.sql",
+  "caption":"",
+  "category":"DDL Generation",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/ddl-generation#create-all"
+}
+,{
+  "title":"ClickHouse",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/clickhouse"
+}
+,{
+  "title":"Cockroach",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/cockroach"
+}
+,{
+  "title":"DB2",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/db2"
+}
+,{
+  "title":"Database Platforms",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database"
+}
+,{
+  "title":"ElasticSearch",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/elasticsearch"
+}
+,{
+  "title":"ElasticSearch - Configuration properties",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/elasticsearch#properties"
+}
+,{
+  "title":"ElasticSearch - ebean-elastic dependency",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/elasticsearch#ebean-elastic"
+}
+,{
+  "title":"H2",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/h2"
+}
+,{
+  "title":"H2 - History support",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/h2#history"
+}
+,{
+  "title":"H2 - Types",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/h2#types"
+}
+,{
+  "title":"MariaDB",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/mariadb"
+}
+,{
+  "title":"MariaDB - History support",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/mariadb#history"
+}
+,{
+  "title":"MariaDB - Programmatically start using docker",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/mariadb#start-docker"
+}
+,{
+  "title":"MariaDB - Types",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/mariadb#types"
+}
+,{
+  "title":"MySql",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/mysql"
+}
+,{
+  "title":"MySql - History support",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/mysql#history"
+}
+,{
+  "title":"MySql - Types",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/mysql#types"
+}
+,{
+  "title":"NuoDB",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/nuodb"
+}
+,{
+  "title":"NuoDB - History support",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/nuodb#history"
+}
+,{
+  "title":"NuoDB - Table Partitioning",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/nuodb#partitioning"
+}
+,{
+  "title":"NuoDB - Types",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/nuodb#types"
+}
+,{
+  "title":"Oracle",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/oracle"
+}
+,{
+  "title":"Oracle - History support",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/oracle#history"
+}
+,{
+  "title":"Oracle - Types",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/oracle#types"
+}
+,{
+  "title":"Postgres",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/postgres"
+}
+,{
+  "title":"Postgres - Extensions",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/postgres#extensions"
+}
+,{
+  "title":"Postgres - History support",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/postgres#history"
+}
+,{
+  "title":"Postgres - PostGIS",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/postgres#postgis"
+}
+,{
+  "title":"Postgres - Postgres types",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/postgres#types"
+}
+,{
+  "title":"Postgres - Schema",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/postgres#schema"
+}
+,{
+  "title":"Postgres - Table Partitioning",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/postgres#partitioning"
+}
+,{
+  "title":"Postgres / Array type",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/postgres/arraytype"
+}
+,{
+  "title":"Postgres / PostGIS",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/postgres/postgis"
+}
+,{
+  "title":"Redis - L2 cache",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/redis"
+}
+,{
+  "title":"Redis - L2 cache - @Cache",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/redis"
+}
+,{
+  "title":"Redis - L2 cache - ebean-redis dependency",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/redis"
+}
+,{
+  "title":"SAP Hana",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/hana"
+}
+,{
+  "title":"SQL Server",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/sqlserver"
+}
+,{
+  "title":"Sqlite",
+  "caption":"",
+  "category":"Database platforms",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/database/sqlite"
+}
+,{
+  "title":"Getting started",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/get-started"
+}
+,{
+  "title":"Indexes",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/indexes"
+}
+,{
+  "title":"Mapping",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/mapping"
+}
+,{
+  "title":"Query",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/query"
+}
+,{
+  "title":"Simple query comparison",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/simple-query-comparison"
+}
+,{
+  "title":"Syncing",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/syncing"
+}
+,{
+  "title":"Example projects",
+  "caption":"",
+  "category":"Examples",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/examples"
+}
+,{
+  "title":"Any DDL",
+  "caption":"",
+  "category":"Extra DDL",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/extra-ddl#any"
+}
+,{
+  "title":"Extra DDL",
+  "caption":"",
+  "category":"Extra DDL",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/extra-ddl#overview"
+}
+,{
+  "title":"Platform specific DDL",
+  "caption":"",
+  "category":"Extra DDL",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/extra-ddl#platforms"
+}
+,{
+  "title":"Stored procedures and Triggers",
+  "caption":"",
+  "category":"Extra DDL",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/extra-ddl#procedures"
+}
+,{
+  "title":"Views",
+  "caption":"",
+  "category":"Extra DDL",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/extra-ddl#views"
+}
+,{
+  "title":"CLI tool - ebeaninit",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started/cli-tool"
+}
+,{
+  "title":"CLI tool - ebeaninit - CLI Tool - ebeaninit",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started/cli-tool"
+}
+,{
+  "title":"CLI tool - ebeaninit / Manual install",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started/cli-tool-manualinstall"
+}
+,{
+  "title":"CLI tool - ebeaninit / Manual install - Manual installation (Linux)",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started/cli-tool-manualinstall#manual"
+}
+,{
+  "title":"Eclipse IDE",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started/eclipse-ide"
+}
+,{
+  "title":"Gradle",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started/gradle"
+}
+,{
+  "title":"Gradle - Example projects",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started/gradle"
+}
+,{
+  "title":"Gradle - Kotlin",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started/gradle"
+}
+,{
+  "title":"Gradle - Test output",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started/gradle"
+}
+,{
+  "title":"Install IDE Plugin",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started#ide"
+}
+,{
+  "title":"Intellij",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started/intellij-idea"
+}
+,{
+  "title":"Intellij - Generated Sources",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started/intellij-idea#generated-sources"
+}
+,{
+  "title":"Intellij - IntelliJ IDEA Plugin",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started/intellij-idea#idea"
+}
+,{
+  "title":"Intellij - Plugin javaagent",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started/intellij-idea#plugin-javaagent"
+}
+,{
+  "title":"Maven",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started/maven"
+}
+,{
+  "title":"Maven - Dependencies",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started/maven#dependencies"
+}
+,{
+  "title":"Maven - Examples",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started/maven"
+}
+,{
+  "title":"Maven - Kotlin KAPT",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started/maven#kotlin-kapt"
+}
+,{
+  "title":"Maven - build / plugins",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started/maven"
+}
+,{
+  "title":"Maven / Plugin",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started/maven-plugin"
+}
+,{
+  "title":"Prerequisite - Java 8",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started#prerequisites"
+}
+,{
+  "title":"Test setup",
+  "caption":"",
+  "category":"Getting started",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/getting-started/ebean-test"
+}
+,{
+  "title":"@OneToMany",
+  "caption":"",
+  "category":"Kotlin",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/kotlin#oneToMany"
+}
+,{
+  "title":"Constructors",
+  "caption":"",
+  "category":"Kotlin",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/kotlin#constructors"
+}
+,{
+  "title":"MappedSuperclass",
+  "caption":"",
+  "category":"Kotlin",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/kotlin#mapped-superclass"
+}
+,{
+  "title":"Non-nullable types",
+  "caption":"",
+  "category":"Kotlin",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/kotlin#non-nullable"
+}
+,{
+  "title":"Apache Ignite",
+  "caption":"",
+  "category":"L2 Cache",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/features/l2cache/apache-ignite"
+}
+,{
+  "title":"Bean cache",
+  "caption":"",
+  "category":"L2 Cache",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/features/l2cache/bean-cache"
+}
+,{
+  "title":"Hazelcast",
+  "caption":"",
+  "category":"L2 Cache",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/features/l2cache/hazelcast"
+}
+,{
+  "title":"Query cache",
+  "caption":"",
+  "category":"L2 Cache",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/features/l2cache/query-cache"
+}
+,{
+  "title":"DDL",
+  "caption":"",
+  "category":"Logging",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/logging#ddl"
+}
+,{
+  "title":"Docker logging",
+  "caption":"",
+  "category":"Logging",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/logging#docker"
+}
+,{
+  "title":"Elastic logging",
+  "caption":"",
+  "category":"Logging",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/logging#elastic"
+}
+,{
+  "title":"L2 Cache logging",
+  "caption":"",
+  "category":"Logging",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/logging#l2"
+}
+,{
+  "title":"Logging",
+  "caption":"",
+  "category":"Logging",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/logging"
+}
+,{
+  "title":"SQL",
+  "caption":"",
+  "category":"Logging",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/logging#sql"
+}
+,{
+  "title":"Summary logging",
+  "caption":"",
+  "category":"Logging",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/logging#summary"
+}
+,{
+  "title":"Transaction",
+  "caption":"",
+  "category":"Logging",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/logging#txn"
+}
+,{
+  "title":"Typical logback configuration",
+  "caption":"",
+  "category":"Logging",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/logging#typical"
+}
+,{
+  "title":"@Size and @NotNull",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping#validation-annotations"
+}
+,{
+  "title":"Collections",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping#collections"
+}
+,{
+  "title":"Collections - Enhancement",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/collections#enhancement"
+}
+,{
+  "title":"Collections - List vs Set",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/collections#list"
+}
+,{
+  "title":"Collections - Recommendation - Use List",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/collections#recommendation"
+}
+,{
+  "title":"Constructors",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping#constructors"
+}
+,{
+  "title":"Constuctors",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/constructors"
+}
+,{
+  "title":"Constuctors - Default constructor",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/constructors#default-constructor"
+}
+,{
+  "title":"Constuctors - Example - Country, No setters",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/constructors#no-setters"
+}
+,{
+  "title":"Constuctors - Kotlin",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/constructors#kotlin"
+}
+,{
+  "title":"Current limitations",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping#limitations"
+}
+,{
+  "title":"Extension",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions"
+}
+,{
+  "title":"Extension - Ebean mapping extensions",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions"
+}
+,{
+  "title":"Extension / @ChangeLog",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/change-log"
+}
+,{
+  "title":"Extension / @DbArray",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbarray"
+}
+,{
+  "title":"Extension / @DbArray - Example: integer[]",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbarray"
+}
+,{
+  "title":"Extension / @DbArray - Example: uuid[]",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbarray"
+}
+,{
+  "title":"Extension / @DbArray - Example: varchar[]",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbarray"
+}
+,{
+  "title":"Extension / @DbArray - Expressions",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbarray"
+}
+,{
+  "title":"Extension / @DbArray - Fallback",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbarray#fallback"
+}
+,{
+  "title":"Extension / @DbArray - Fallback varchar length",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbarray"
+}
+,{
+  "title":"Extension / @DbArray - Postgres",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbarray#postgres"
+}
+,{
+  "title":"Extension / @DbComment",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbcomment"
+}
+,{
+  "title":"Extension / @DbEnumValue",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbenumvalue"
+}
+,{
+  "title":"Extension / @DbEnumValue - Storage",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbenumvalue#storage"
+}
+,{
+  "title":"Extension / @DbEnumValue - Use",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbenumvalue#use"
+}
+,{
+  "title":"Extension / @DbJson",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbjson"
+}
+,{
+  "title":"Extension / @DbJson - Fallback mapping",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbjson#fallback"
+}
+,{
+  "title":"Extension / @DbJson - Mapping simple types",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbjson#simple-types"
+}
+,{
+  "title":"Extension / @DbJson - Mapping with Jackson ObjectMapper",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbjson#jackson"
+}
+,{
+  "title":"Extension / @DbJson - Mixing structured and unstructured",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbjson#mixed"
+}
+,{
+  "title":"Extension / @DbJson - Overview",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbjson#overview"
+}
+,{
+  "title":"Extension / @DbJson - Query expressions",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbjson#expressions"
+}
+,{
+  "title":"Extension / @DbMap",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbmap"
+}
+,{
+  "title":"Extension / @DbPartition",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbpartition"
+}
+,{
+  "title":"Extension / @Encrypted",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/encrypted"
+}
+,{
+  "title":"Extension / @Formula",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/formula"
+}
+,{
+  "title":"Extension / @Formula - Overview",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/formula#overview"
+}
+,{
+  "title":"Extension / @History",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/history"
+}
+,{
+  "title":"Extension / @Identity",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/identity"
+}
+,{
+  "title":"Extension / @Index",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbindex"
+}
+,{
+  "title":"Extension / @Index - @Index(unique=true)",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbindex#unique"
+}
+,{
+  "title":"Extension / @Index - Concurrent",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbindex#concurrent"
+}
+,{
+  "title":"Extension / @Index - Definition",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbindex#definition"
+}
+,{
+  "title":"Extension / @Index - Platforms",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/dbindex#platforms"
+}
+,{
+  "title":"Extension / @ReadAudit",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/read-audit"
+}
+,{
+  "title":"Extension / @SoftDelete",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/soft-delete"
+}
+,{
+  "title":"Extension / @View",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/view"
+}
+,{
+  "title":"Extension / @View - View",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/view"
+}
+,{
+  "title":"Extension / @WhenCreated",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/when-created"
+}
+,{
+  "title":"Extension / @WhenModified",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/when-modified"
+}
+,{
+  "title":"Extension / @WhoCreated",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/who-created"
+}
+,{
+  "title":"Extension / @WhoModified",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/extensions/who-modified"
+}
+,{
+  "title":"JPA",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa"
+}
+,{
+  "title":"JPA - JPA mapping",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa"
+}
+,{
+  "title":"JPA / @Id",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/id"
+}
+,{
+  "title":"JPA / @Id - @GeneratedValue",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/id#generated-value"
+}
+,{
+  "title":"JPA / @Id - @Identity",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/id#identity"
+}
+,{
+  "title":"JPA / @Id - Custom Id Generator",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/id#custom"
+}
+,{
+  "title":"JPA / @Id - Database platform",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/id#database-platform"
+}
+,{
+  "title":"JPA / @Id - No lazy loading",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/id#no-lazy-loading"
+}
+,{
+  "title":"JPA / @Id - UUID",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/id#uuid"
+}
+,{
+  "title":"JPA / @Lob",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/lob"
+}
+,{
+  "title":"JPA / @Lob - Lob",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/lob"
+}
+,{
+  "title":"JPA / @ManyToMany",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/many-to-many"
+}
+,{
+  "title":"JPA / @ManyToMany - Overview",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/many-to-many"
+}
+,{
+  "title":"JPA / @ManyToOne",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/many-to-one"
+}
+,{
+  "title":"JPA / @ManyToOne - @NotNull",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/many-to-one#notNull"
+}
+,{
+  "title":"JPA / @ManyToOne - Relationship Pair",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/many-to-one#pair"
+}
+,{
+  "title":"JPA / @ManyToOne - optional=false",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/many-to-one#optional"
+}
+,{
+  "title":"JPA / @MappedSuperclass",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/mapped-superclass"
+}
+,{
+  "title":"JPA / @MappedSuperclass - MappedSuperclass",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/mapped-superclass"
+}
+,{
+  "title":"JPA / @OneToMany",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/one-to-many"
+}
+,{
+  "title":"JPA / @OneToMany - Bi-directional",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/one-to-many#bidirectional"
+}
+,{
+  "title":"JPA / @OneToMany - Not mapping the @ManyToOne",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/one-to-many#no-ManyToOne"
+}
+,{
+  "title":"JPA / @OneToMany - Not mapping the @OneToMany",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/one-to-many#no-OneToMany"
+}
+,{
+  "title":"JPA / @OneToMany - Relationship Pair",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/one-to-many#pair"
+}
+,{
+  "title":"JPA / @OneToMany - mappedBy",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/one-to-many#mappedBy"
+}
+,{
+  "title":"JPA / @OneToOne",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/one-to-one"
+}
+,{
+  "title":"JPA / @OneToOne - @OneToOne many side",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/one-to-one#manySide"
+}
+,{
+  "title":"JPA / @OneToOne - @OneToOne one side",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/one-to-one#oneSide"
+}
+,{
+  "title":"JPA / @OneToOne - Relationship Pair",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/one-to-one#pair"
+}
+,{
+  "title":"JPA / @Version",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/jpa/version"
+}
+,{
+  "title":"JPA Notes",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping#jpa-notes"
+}
+,{
+  "title":"Naming convention",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping#naming-convention"
+}
+,{
+  "title":"Types",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/type"
+}
+,{
+  "title":"Types / Boolean",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/type/boolean"
+}
+,{
+  "title":"Types / DB Array",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/type/db-array"
+}
+,{
+  "title":"Types / DB Json",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/type/db-json"
+}
+,{
+  "title":"Types / Enum",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/type/enum"
+}
+,{
+  "title":"Types / File",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/type/file"
+}
+,{
+  "title":"Types / Numeric",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/type/numeric"
+}
+,{
+  "title":"Types / Time",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/type/time"
+}
+,{
+  "title":"Types / UUID",
+  "caption":"",
+  "category":"Mapping",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/mapping/type/uuid"
+}
+,{
+  "title":"Labels",
+  "caption":"",
+  "category":"Monitoring",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/monitoring/labels"
+}
+,{
+  "title":"Metrics",
+  "caption":"",
+  "category":"Monitoring",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/monitoring"
+}
+,{
+  "title":"Monitoring",
+  "caption":"",
+  "category":"Monitoring",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/monitoring"
+}
+,{
+  "title":"Profile Location",
+  "caption":"",
+  "category":"Monitoring",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/monitoring/profile-location"
+}
+,{
+  "title":"@DbName",
+  "caption":"",
+  "category":"Multiple databases",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/multi-database#dbName"
+}
+,{
+  "title":"Finder constructor",
+  "caption":"",
+  "category":"Multiple databases",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/multi-database#finder"
+}
+,{
+  "title":"Model constructor",
+  "caption":"",
+  "category":"Multiple databases",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/multi-database#model"
+}
+,{
+  "title":"Register entity types",
+  "caption":"",
+  "category":"Multiple databases",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/multi-database#register"
+}
+,{
+  "title":"Bulk SQL updates",
+  "caption":"",
+  "category":"Persist",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/persist#bulksqlupdate"
+}
+,{
+  "title":"Bulk updates",
+  "caption":"",
+  "category":"Persist",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/persist#bulkupdate"
+}
+,{
+  "title":"CallableSql",
+  "caption":"",
+  "category":"Persist",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/persist#callablesql"
+}
+,{
+  "title":"Cascading",
+  "caption":"",
+  "category":"Persist",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/persist#cascading"
+}
+,{
+  "title":"Delete",
+  "caption":"",
+  "category":"Persist",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/persist#deletes"
+}
+,{
+  "title":"JDBC Batch",
+  "caption":"",
+  "category":"Persist",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/persist#batch_processing"
+}
+,{
+  "title":"Raw JDBC",
+  "caption":"",
+  "category":"Persist",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/persist#rawjdbc"
+}
+,{
+  "title":"Save",
+  "caption":"",
+  "category":"Persist",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/persist#saves"
+}
+,{
+  "title":"Aggregation",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/aggregation"
+}
+,{
+  "title":"Aggregation - @Aggregation",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/aggregation#atAggregation"
+}
+,{
+  "title":"Aggregation - @Sum",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/aggregation#atSum"
+}
+,{
+  "title":"Aggregation - Aggregation beans",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/aggregation#beans"
+}
+,{
+  "title":"Aggregation - Dynamic formula",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/aggregation#dynamicformula"
+}
+,{
+  "title":"Aggregation - Fetch",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/aggregation#fetch"
+}
+,{
+  "title":"Aggregation - Multiple attributes",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/aggregation#multiple"
+}
+,{
+  "title":"CallableSql",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/callablesql"
+}
+,{
+  "title":"CallableSql - L2 cache",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/callablesql#l2cache"
+}
+,{
+  "title":"Delete query",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/delete"
+}
+,{
+  "title":"DtoQuery",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/dtoquery"
+}
+,{
+  "title":"DtoQuery - Mapping",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/dtoquery#mapping"
+}
+,{
+  "title":"DtoQuery - RelaxedMode",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/dtoquery#relaxedMode"
+}
+,{
+  "title":"DtoQuery - findEach",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/dtoquery#findEach"
+}
+,{
+  "title":"DtoQuery - firstRow / maxRows",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/dtoquery#maxRows"
+}
+,{
+  "title":"Expressions",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions"
+}
+,{
+  "title":"Expressions - arrayContains",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#arrayContains"
+}
+,{
+  "title":"Expressions - arrayIsEmpty",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#arrayIsEmpty"
+}
+,{
+  "title":"Expressions - arrayIsNotEmpty",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#arrayIsNotEmpty"
+}
+,{
+  "title":"Expressions - arrayNotContains",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#arrayNotContains"
+}
+,{
+  "title":"Expressions - between",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#between"
+}
+,{
+  "title":"Expressions - betweenProperties",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#betweenProperties"
+}
+,{
+  "title":"Expressions - bitwiseAll",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#bitwiseAll"
+}
+,{
+  "title":"Expressions - bitwiseAnd",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#bitwiseAnd"
+}
+,{
+  "title":"Expressions - bitwiseAny",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#bitwiseAny"
+}
+,{
+  "title":"Expressions - bitwiseNot",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#bitwiseNot"
+}
+,{
+  "title":"Expressions - contains",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#contains"
+}
+,{
+  "title":"Expressions - endsWith",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#endsWith"
+}
+,{
+  "title":"Expressions - eq - equal to",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#eq"
+}
+,{
+  "title":"Expressions - example",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#example"
+}
+,{
+  "title":"Expressions - ge - greater than or equal",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#ge"
+}
+,{
+  "title":"Expressions - gt - greater than",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#gt"
+}
+,{
+  "title":"Expressions - in()",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#in"
+}
+,{
+  "title":"Expressions - inOrEmpty()",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#inOrEmpty"
+}
+,{
+  "title":"Expressions - inPairs()",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#inPairs"
+}
+,{
+  "title":"Expressions - inRange()",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#inRange"
+}
+,{
+  "title":"Expressions - inRangeWith()",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#inRangeWith"
+}
+,{
+  "title":"Expressions - isEmpty()",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#isEmpty"
+}
+,{
+  "title":"Expressions - isNull()",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#isNull"
+}
+,{
+  "title":"Expressions - le - less than or equal",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#le"
+}
+,{
+  "title":"Expressions - like",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#like"
+}
+,{
+  "title":"Expressions - lt - less than",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#lt"
+}
+,{
+  "title":"Expressions - ne - not equal",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#ne"
+}
+,{
+  "title":"Expressions - raw()",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#raw"
+}
+,{
+  "title":"Expressions - rawOrEmpty()",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#rawOrEmpty"
+}
+,{
+  "title":"Expressions - startsWith",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/expressions#startsWith"
+}
+,{
+  "title":"Native SQL",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/native-sql"
+}
+,{
+  "title":"Option",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/option"
+}
+,{
+  "title":"Option - Alias",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/option#alias"
+}
+,{
+  "title":"Option - As of timestamp",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/option#asOf"
+}
+,{
+  "title":"Option - Autotune",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/option#autotune"
+}
+,{
+  "title":"Option - asDraft",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/option#asDraft"
+}
+,{
+  "title":"Option - bufferFetchSizeHint",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/option#bufferFetchSizeHint"
+}
+,{
+  "title":"Option - disableLazyLoading",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/option#disableLazyLoading"
+}
+,{
+  "title":"Option - disableReadAuditing",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/option#disableReadAuditing"
+}
+,{
+  "title":"Option - distinct",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/option#distinct"
+}
+,{
+  "title":"Option - forUpdate",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/option#forUpdate"
+}
+,{
+  "title":"Option - includeSoftDeletes",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/option#includeSoftDeletes"
+}
+,{
+  "title":"Option - lazyLoadBatchSize",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/option#lazyLoadBatchSize"
+}
+,{
+  "title":"Option - persistenceContextScope",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/option#persistenceContextScope"
+}
+,{
+  "title":"Option - readOnly",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/option#readOnly"
+}
+,{
+  "title":"OrderBy",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/orderBy"
+}
+,{
+  "title":"OrderBy - Collate",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/orderBy#collate"
+}
+,{
+  "title":"OrderBy - Nulls high, Nulls low",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/orderBy#nulls"
+}
+,{
+  "title":"OrderBy - OrderBy expression",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/orderBy#orderByExpression"
+}
+,{
+  "title":"OrderBy - ToMany ordering",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/orderBy#toMany"
+}
+,{
+  "title":"Query beans",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/query-beans"
+}
+,{
+  "title":"Query beans - APT / KAPT (generating query beans)",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/query-beans#apt"
+}
+,{
+  "title":"Query beans - Caveats",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/query-beans#caveats"
+}
+,{
+  "title":"Query beans - Enhancement",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/query-beans#enhancement"
+}
+,{
+  "title":"RawSql",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/rawSql"
+}
+,{
+  "title":"SqlQuery",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/sqlquery"
+}
+,{
+  "title":"SqlQuery - Binding collections",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/sqlquery#collections"
+}
+,{
+  "title":"SqlQuery - RowMapper",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/sqlquery#rowmapper"
+}
+,{
+  "title":"SqlQuery - firstRow / maxRows",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/sqlquery#limit"
+}
+,{
+  "title":"SqlUpdate",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/sqlupdate"
+}
+,{
+  "title":"SqlUpdate - AddBatch and ExecuteBatch",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/sqlupdate#addBatch"
+}
+,{
+  "title":"SqlUpdate - Binding collections",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/sqlupdate#collections"
+}
+,{
+  "title":"SqlUpdate - CTE - Common table expression",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/sqlupdate#cte"
+}
+,{
+  "title":"SqlUpdate - L2 cache",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/sqlupdate#l2cache"
+}
+,{
+  "title":"SqlUpdate - Upsert",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/sqlupdate#upsert"
+}
+,{
+  "title":"Update query",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/update"
+}
+,{
+  "title":"Where",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/where"
+}
+,{
+  "title":"Where - AND",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/where#and"
+}
+,{
+  "title":"Where - OR",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/where#or"
+}
+,{
+  "title":"Where - Paths",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/where"
+}
+,{
+  "title":"Where - Raw expressions",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/where#raw"
+}
+,{
+  "title":"exists",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/exists"
+}
+,{
+  "title":"exists - Exists",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/exists"
+}
+,{
+  "title":"fetch",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/fetch"
+}
+,{
+  "title":"fetch - Alias Query beans",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/fetch#querybean"
+}
+,{
+  "title":"fetch - Fetch",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/fetch#fetch"
+}
+,{
+  "title":"fetch - Fetch variations - fetch, fetchQuery, fetchCache, fetchLazy",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/fetch#fetchVariations"
+}
+,{
+  "title":"fetch - FetchCache",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/fetch#fetchCache"
+}
+,{
+  "title":"fetch - FetchLazy",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/fetch#fetchLazy"
+}
+,{
+  "title":"fetch - FetchQuery",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/fetch#fetchQuery"
+}
+,{
+  "title":"fetch - ORM query to SQL query rules",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/fetch#rules"
+}
+,{
+  "title":"fetch - Select + Fetch = projection query tuning",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/fetch#tuning"
+}
+,{
+  "title":"fetchGroup",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/fetchgroup"
+}
+,{
+  "title":"fetchGroup - FetchGroup",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/fetchgroup"
+}
+,{
+  "title":"filterMany",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/filterMany"
+}
+,{
+  "title":"filterMany - FilterMany",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/filterMany"
+}
+,{
+  "title":"findCount",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/findCount"
+}
+,{
+  "title":"findEach",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/findEach"
+}
+,{
+  "title":"findEachWhile",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/findEachWhile"
+}
+,{
+  "title":"findFutureCount",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/findFutureCount"
+}
+,{
+  "title":"findFutureIds",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/findFutureIds"
+}
+,{
+  "title":"findFutureList",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/findFutureList"
+}
+,{
+  "title":"findIds",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/findIds"
+}
+,{
+  "title":"findIterate",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/findIterate"
+}
+,{
+  "title":"findList",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/findList"
+}
+,{
+  "title":"findMap",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/findMap"
+}
+,{
+  "title":"findNative",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/findNative"
+}
+,{
+  "title":"findOne",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/findOne"
+}
+,{
+  "title":"findOne - findOneOrEmpty",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/findOne"
+}
+,{
+  "title":"findPagedList",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/findPagedList"
+}
+,{
+  "title":"findSet",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/findSet"
+}
+,{
+  "title":"findSingleAttribute",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/findSingleAttribute"
+}
+,{
+  "title":"findSingleAttributeList",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/findSingleAttributeList"
+}
+,{
+  "title":"findStream",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/findStream"
+}
+,{
+  "title":"findStream - findLargeStream",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/findStream#findLargeStream"
+}
+,{
+  "title":"findVersions",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/findVersions"
+}
+,{
+  "title":"findVersionsBetween",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/findVersionsBetween"
+}
+,{
+  "title":"having",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/having"
+}
+,{
+  "title":"having - Having",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/having"
+}
+,{
+  "title":"select",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/select"
+}
+,{
+  "title":"select - Aggregation",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/select#aggregation"
+}
+,{
+  "title":"select - Alias for static imports",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/select#aliasField"
+}
+,{
+  "title":"select - Formula",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/select#formula"
+}
+,{
+  "title":"select - Select",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/select#select"
+}
+,{
+  "title":"select - alias() - specify properties",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/select#alias"
+}
+,{
+  "title":"select - asDto",
+  "caption":"",
+  "category":"Query",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/query/select#asDto"
+}
+,{
+  "title":"CI Testing",
+  "caption":"",
+  "category":"Testing",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/testing/ci-testing"
+}
+,{
+  "title":"CI Testing - Jenkins Kubernetes Plugin",
+  "caption":"",
+  "category":"Testing",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/testing/ci-testing#jenkins-k8s"
+}
+,{
+  "title":"Container shutdown",
+  "caption":"",
+  "category":"Testing",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/testing#container-shutdown"
+}
+,{
+  "title":"Container startup",
+  "caption":"",
+  "category":"Testing",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/testing#container-startup"
+}
+,{
+  "title":"Current User and Tenant",
+  "caption":"",
+  "category":"Testing",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/testing#current-user"
+}
+,{
+  "title":"DDL Mode",
+  "caption":"",
+  "category":"Testing",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/testing#ddlmode"
+}
+,{
+  "title":"DDL generation properties",
+  "caption":"",
+  "category":"Testing",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/testing#ddl-generation-properties"
+}
+,{
+  "title":"DDL/SQL Script Runner",
+  "caption":"",
+  "category":"Testing",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/testing#scriptRunner"
+}
+,{
+  "title":"Docker test containers",
+  "caption":"",
+  "category":"Testing",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/testing#docker"
+}
+,{
+  "title":"ElasticSearch",
+  "caption":"",
+  "category":"Testing",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/testing#elasticsearch"
+}
+,{
+  "title":"Not using Docker",
+  "caption":"",
+  "category":"Testing",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/testing#not-docker"
+}
+,{
+  "title":"Redis",
+  "caption":"",
+  "category":"Testing",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/testing#redis"
+}
+,{
+  "title":"Third age of testing",
+  "caption":"",
+  "category":"Testing",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/testing#third-age"
+}
+,{
+  "title":"ebean-test dependency",
+  "caption":"",
+  "category":"Testing",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/testing#ebean-test"
+}
+,{
+  "title":"@Transactional",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions#transactional"
+}
+,{
+  "title":"Batch",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions/batch"
+}
+,{
+  "title":"Batch - @Transactional(batchSize)",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions/batch#transactionalBatchSize"
+}
+,{
+  "title":"Batch - Batch size",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions/batch#batchSize"
+}
+,{
+  "title":"Batch - Configuration via ServerConfig",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions/batch#serverConfig"
+}
+,{
+  "title":"Batch - Explicit flush()",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions/batch#flushExplicit"
+}
+,{
+  "title":"Batch - Flush",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions/batch#flush"
+}
+,{
+  "title":"Batch - Flush on getter/setter",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions/batch#flushOnGetter"
+}
+,{
+  "title":"Batch - GetGeneratedKeys",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions/batch#generatedKeys"
+}
+,{
+  "title":"Batch - setBatchFlushOnMixed()",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions/batch#flushOnMixed"
+}
+,{
+  "title":"Batch - setBatchFlushOnQuery()",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions/batch#flushOnQuery"
+}
+,{
+  "title":"Implicit transactions",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions#implicit"
+}
+,{
+  "title":"JTA",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions/jta"
+}
+,{
+  "title":"Savepoints",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions/savepoints"
+}
+,{
+  "title":"Savepoints - Explicit Savepoints",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions/savepoints#explicit"
+}
+,{
+  "title":"Savepoints - Savepoint",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions/savepoints#savepoint"
+}
+,{
+  "title":"Savepoints - Transaction.setNestedUseSavepoint()",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions/savepoints#setNestedUseSavepoint"
+}
+,{
+  "title":"Scopes",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions/scopes"
+}
+,{
+  "title":"Scopes - REQUIRED is default",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions/scopes"
+}
+,{
+  "title":"Spring",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions/spring"
+}
+,{
+  "title":"Spring - Spring transactions",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions/spring"
+}
+,{
+  "title":"Transaction.current()",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions#current"
+}
+,{
+  "title":"beginTransaction()",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions#beginTransaction"
+}
+,{
+  "title":"commit(), rollback(), end()",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions#end"
+}
+,{
+  "title":"commitAndContinue()",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions#commitAndContinue"
+}
+,{
+  "title":"createTransaction()",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions#createTransaction"
+}
+,{
+  "title":"setRollbackOnly()",
+  "caption":"",
+  "category":"Transactions",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/transactions#setRollbackOnly"
+}
+,{
+  "title":"TODO - Tuning",
+  "caption":"",
+  "category":"Tuning",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/tuning"
+}
+,{
+  "title":"Summary of changes",
+  "caption":"",
+  "category":"Upgrading",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/upgrading"
+}
+,{
+  "title":"Upgrading to 10.x from 9.x",
+  "caption":"",
+  "category":"Upgrading",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/upgrading"
+}
+,{
+  "title":"Upgrading to 11.x from 10.x",
+  "caption":"",
+  "category":"Upgrading",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/upgrading"
+}
+,{
+  "title":"Upgrading to 12.x from 11.x",
+  "caption":"",
+  "category":"Upgrading",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/upgrading"
+}
+,{
+  "title":"Upgrading to 7.x from 6.x",
+  "caption":"",
+  "category":"Upgrading",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/upgrading"
+}
+,{
+  "title":"Upgrading to 8.x from 7.x",
+  "caption":"",
+  "category":"Upgrading",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/upgrading"
+}
+,{
+  "title":"Upgrading to 9.x from 8.x",
+  "caption":"",
+  "category":"Upgrading",
+  "priority":"3",
+  "keywords":"",
+  "url":"/docs/upgrading"
+}
+,{
+  "title":"Caveats",
+  "caption":"",
+  "category":"Change log",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/changelog#caveats"
+}
+,{
+  "title":"Getting started",
+  "caption":"",
+  "category":"Change log",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/changelog#getting-started"
+}
+,{
+  "title":"Overview",
+  "caption":"",
+  "category":"Change log",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/changelog#overview"
+}
+,{
+  "title":"Draft Restore",
+  "caption":"",
+  "category":"Draftable",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/draftable#draft-restore"
+}
+,{
+  "title":"Example Application",
+  "caption":"",
+  "category":"Draftable",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/draftable#example-app"
+}
+,{
+  "title":"L2 Cache",
+  "caption":"",
+  "category":"Draftable",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/draftable"
+}
+,{
+  "title":"Mapping",
+  "caption":"",
+  "category":"Draftable",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/draftable#mapping"
+}
+,{
+  "title":"Overview",
+  "caption":"",
+  "category":"Draftable",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/draftable#overview"
+}
+,{
+  "title":"Publish",
+  "caption":"",
+  "category":"Draftable",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/draftable#publish"
+}
+,{
+  "title":"Query As Draft",
+  "caption":"",
+  "category":"Draftable",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/draftable#query-as-draft"
+}
+,{
+  "title":"Automatic sync",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch#automatic-sync"
+}
+,{
+  "title":"Currently out of scope",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch#out-of-scope"
+}
+,{
+  "title":"Getting started - Bean mapping",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/get-started#bean-mapping"
+}
+,{
+  "title":"Getting started - Dependencies",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/get-started#dependencies"
+}
+,{
+  "title":"Getting started - Example application",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/get-started#example-application"
+}
+,{
+  "title":"Getting started - Generated index mapping",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/get-started"
+}
+,{
+  "title":"Getting started - Review issues on github",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/get-started#issues"
+}
+,{
+  "title":"Indexes - Aliases",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/indexes#aliases"
+}
+,{
+  "title":"Indexes - Copy index",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/indexes#copyIndex"
+}
+,{
+  "title":"Indexes - Create index",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/indexes#createIndex"
+}
+,{
+  "title":"Indexes - Drop index",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/indexes#dropIndex"
+}
+,{
+  "title":"Indexes - Index all",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/indexes#indexAll"
+}
+,{
+  "title":"Indexes - Index by query",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/indexes#indexByQuery"
+}
+,{
+  "title":"Indexes - Indexing by partition",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/indexes"
+}
+,{
+  "title":"Mapping - @DocCode - Strings that are codes",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/mapping#DocCode"
+}
+,{
+  "title":"Mapping - @DocEmbedded - Embedded documents",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/mapping#DocEmbedded"
+}
+,{
+  "title":"Mapping - @DocProperty",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/mapping#DocProperty"
+}
+,{
+  "title":"Mapping - @DocSortable - Analysed and not analysed",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/mapping#DocSortable"
+}
+,{
+  "title":"Mapping - @DocStore - Entities to map",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/mapping#DocStore"
+}
+,{
+  "title":"Mapping - Mapping generation",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/mapping#mapping-generation"
+}
+,{
+  "title":"Mapping - Overview",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/mapping#overview"
+}
+,{
+  "title":"ORM graphs as JSON documents",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch#graphs-as-json"
+}
+,{
+  "title":"Query - Explicit useDocStore(true)",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/query#use-doc-store"
+}
+,{
+  "title":"Query - Full text",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch#query-full-text"
+}
+,{
+  "title":"Query - Implied useDocStore(true)",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/query#implied-use-doc-store"
+}
+,{
+  "title":"Query - Match",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/query#match"
+}
+,{
+  "title":"Query - Multi match, Text simple etc",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/query#multi-match"
+}
+,{
+  "title":"Query - Must, must not, should",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/query#must-must-not-should"
+}
+,{
+  "title":"Query - Text expressions",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/query#text-expressions"
+}
+,{
+  "title":"Query - firstRows/maxRows -> from/size",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/query#max-rows"
+}
+,{
+  "title":"Query - orderBy -> sort",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/query#order-by"
+}
+,{
+  "title":"Query - select/fetch -> fields/include",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/query#select"
+}
+,{
+  "title":"Query - text -> query context",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/query#query-context"
+}
+,{
+  "title":"Query - where -> filter context",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/query#filter-context"
+}
+,{
+  "title":"Simple query comparison - Appendix - Bean mapping",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/simple-query-comparison#appendix-bean"
+}
+,{
+  "title":"Simple query comparison - Appendix: Index mapping",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/simple-query-comparison#appendix-index"
+}
+,{
+  "title":"Simple query comparison - Caveats",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/simple-query-comparison#caveats"
+}
+,{
+  "title":"Simple query comparison - Elastic query",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/simple-query-comparison"
+}
+,{
+  "title":"Simple query comparison - Run mode 1",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/simple-query-comparison#run1"
+}
+,{
+  "title":"Simple query comparison - Run mode 2 - Denormalisation effect",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/simple-query-comparison#run2"
+}
+,{
+  "title":"Simple query comparison - Run mode 3 - less selective",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/simple-query-comparison#run3"
+}
+,{
+  "title":"Simple query comparison - SQL query",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/simple-query-comparison"
+}
+,{
+  "title":"Simple query comparison - Setup",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/simple-query-comparison#setup"
+}
+,{
+  "title":"Simple query comparison - The query",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/simple-query-comparison#query"
+}
+,{
+  "title":"Syncing - Delete",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/syncing#delete"
+}
+,{
+  "title":"Syncing - Insert",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/syncing#insert"
+}
+,{
+  "title":"Syncing - Post commit",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/syncing#post-commit"
+}
+,{
+  "title":"Syncing - Transaction DocStoreMode.IGNORE",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/syncing#transaction-ignore"
+}
+,{
+  "title":"Syncing - Update",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch/syncing#update"
+}
+,{
+  "title":"Testing",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch"
+}
+,{
+  "title":"Videos",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch#videos"
+}
+,{
+  "title":"Why integrate?",
+  "caption":"",
+  "category":"Elastic",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/elasticsearch#why"
+}
+,{
+  "title":"Encryption",
+  "caption":"",
+  "category":"Encryption",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/encryption#encryption"
+}
+,{
+  "title":"@History",
+  "caption":"",
+  "category":"History",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/history#history"
+}
+,{
+  "title":"@HistoryExclude",
+  "caption":"",
+  "category":"History",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/history#history-exclude"
+}
+,{
+  "title":"As of query",
+  "caption":"",
+  "category":"History",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/history#as-of-query"
+}
+,{
+  "title":"Compared to Change Log",
+  "caption":"",
+  "category":"History",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/history"
+}
+,{
+  "title":"H2",
+  "caption":"",
+  "category":"History",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/history#h2"
+}
+,{
+  "title":"History tables",
+  "caption":"",
+  "category":"History",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/history"
+}
+,{
+  "title":"ManyToMany intersection",
+  "caption":"",
+  "category":"History",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/history#manytomany"
+}
+,{
+  "title":"MySql",
+  "caption":"",
+  "category":"History",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/history#mysql"
+}
+,{
+  "title":"Oracle",
+  "caption":"",
+  "category":"History",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/history#oracle"
+}
+,{
+  "title":"Overview",
+  "caption":"",
+  "category":"History",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/history#overview"
+}
+,{
+  "title":"Postgres",
+  "caption":"",
+  "category":"History",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/history#postgres"
+}
+,{
+  "title":"Versions between",
+  "caption":"",
+  "category":"History",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/history#versions-between-query"
+}
+,{
+  "title":"Videos",
+  "caption":"",
+  "category":"History",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/history#videos"
+}
+,{
+  "title":"Who and When",
+  "caption":"",
+  "category":"History",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/history#who-when"
+}
+,{
+  "title":"JsonContext",
+  "caption":"",
+  "category":"JSON Marshalling",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/json#json-context"
+}
+,{
+  "title":"Overview",
+  "caption":"",
+  "category":"JSON Marshalling",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/json#overview"
+}
+,{
+  "title":"Mapping",
+  "caption":"",
+  "category":"JSON in DB",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/json-in-db#mapping"
+}
+,{
+  "title":"Oracle expressions",
+  "caption":"",
+  "category":"JSON in DB",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/json-in-db#oracle"
+}
+,{
+  "title":"Overview",
+  "caption":"",
+  "category":"JSON in DB",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/json-in-db#overview"
+}
+,{
+  "title":"Postgres expressions",
+  "caption":"",
+  "category":"JSON in DB",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/json-in-db#postgres"
+}
+,{
+  "title":"Query expressions",
+  "caption":"",
+  "category":"JSON in DB",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/json-in-db#query"
+}
+,{
+  "title":"Raw expression",
+  "caption":"",
+  "category":"JSON in DB",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/json-in-db#raw"
+}
+,{
+  "title":"Save and Find",
+  "caption":"",
+  "category":"JSON in DB",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/json-in-db#save-find"
+}
+,{
+  "title":"Bean IUD invalidation",
+  "caption":"",
+  "category":"L2 Cache",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/l2cache#bean-iud-invalidation"
+}
+,{
+  "title":"External invalidation",
+  "caption":"",
+  "category":"L2 Cache",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/l2cache#external-invalidation"
+}
+,{
+  "title":"L2 Cache",
+  "caption":"",
+  "category":"L2 Cache",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/l2cache#overview"
+}
+,{
+  "title":"L2/local and L3/remote",
+  "caption":"",
+  "category":"L2 Cache",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/l2cache#l2-l3"
+}
+,{
+  "title":"Read consistency",
+  "caption":"",
+  "category":"L2 Cache",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/l2cache#read-consistency"
+}
+,{
+  "title":"TODO",
+  "caption":"",
+  "category":"L2 Cache",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/l2cache/elasticsearch"
+}
+,{
+  "title":"Table IUD invalidation (Bulk updates)",
+  "caption":"",
+  "category":"L2 Cache",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/l2cache#table-iud-invalidation"
+}
+,{
+  "title":"Examples",
+  "caption":"",
+  "category":"Multi-Tenant",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/multi-tenant"
+}
+,{
+  "title":"Background / Automatic Tuning",
+  "caption":"",
+  "category":"Query",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/query/background/autotune"
+}
+,{
+  "title":"Background / N + 1",
+  "caption":"",
+  "category":"Query",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/query/background/nplus1"
+}
+,{
+  "title":"Background / Partial Objects",
+  "caption":"",
+  "category":"Query",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/query/background/partialobjects"
+}
+,{
+  "title":"Background / Query Beans",
+  "caption":"",
+  "category":"Query",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/query/background/typesafe"
+}
+,{
+  "title":"Background / Query Overview",
+  "caption":"",
+  "category":"Query",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/query/background/overview"
+}
+,{
+  "title":"Caveats",
+  "caption":"",
+  "category":"Read Auditing",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/readauditing#caveats"
+}
+,{
+  "title":"Getting started",
+  "caption":"",
+  "category":"Read Auditing",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/readauditing#getting-started"
+}
+,{
+  "title":"Overview",
+  "caption":"",
+  "category":"Read Auditing",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/readauditing#overview"
+}
+,{
+  "title":"Query.setDisableReadAuditing()",
+  "caption":"",
+  "category":"Read Auditing",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/readauditing#query"
+}
+,{
+  "title":"@SoftDelete",
+  "caption":"",
+  "category":"SoftDelete",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/softdelete#softdelete"
+}
+,{
+  "title":"Cascading behavior",
+  "caption":"",
+  "category":"SoftDelete",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/softdelete#cascade"
+}
+,{
+  "title":"Change Log",
+  "caption":"",
+  "category":"SoftDelete",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/softdelete#changelog"
+}
+,{
+  "title":"Delete",
+  "caption":"",
+  "category":"SoftDelete",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/softdelete#delete"
+}
+,{
+  "title":"Delete Permanent",
+  "caption":"",
+  "category":"SoftDelete",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/softdelete#deletepermanent"
+}
+,{
+  "title":"Notifications",
+  "caption":"",
+  "category":"SoftDelete",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/softdelete#notifications"
+}
+,{
+  "title":"Query (normal)",
+  "caption":"",
+  "category":"SoftDelete",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/softdelete#query"
+}
+,{
+  "title":"Query - includeSoftDeletes",
+  "caption":"",
+  "category":"SoftDelete",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/softdelete#includeSoftDeletes"
+}
+,{
+  "title":"Who Created/Who Modified",
+  "caption":"",
+  "category":"Who Created Modified",
+  "priority":"4",
+  "keywords":"",
+  "url":"/docs/features/who#overview"
+}
+,{
+  "title":"Background / Automatic Tuning - Origin point",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/autotune#origin"
+}
+,{
+  "title":"Background / Automatic Tuning - Overview",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/autotune#overview"
+}
+,{
+  "title":"Background / Automatic Tuning - Profiling",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/autotune#profiling"
+}
+,{
+  "title":"Background / Automatic Tuning - Tuning",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/autotune#tuning"
+}
+,{
+  "title":"Background / N + 1 - Eager loading",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/nplus1#eager-loading"
+}
+,{
+  "title":"Background / N + 1 - Lazy load batch size",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/nplus1#lazy-batch-size"
+}
+,{
+  "title":"Background / N + 1 - N is per path",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/nplus1#per-path"
+}
+,{
+  "title":"Background / N + 1 - NPlus1",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/nplus1#overview"
+}
+,{
+  "title":"Background / N + 1 - ORM query to SQL Query",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/nplus1#orm-query-conversion"
+}
+,{
+  "title":"Background / N + 1 - Question and Answer",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/nplus1#question-answer"
+}
+,{
+  "title":"Background / N + 1 - What is N?",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/nplus1#what-is-n"
+}
+,{
+  "title":"Background / Partial Objects - AutoTune",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/partialobjects#autotune"
+}
+,{
+  "title":"Background / Partial Objects - Database buffers",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/partialobjects#database"
+}
+,{
+  "title":"Background / Partial Objects - Index only join",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/partialobjects#index-join"
+}
+,{
+  "title":"Background / Partial Objects - Index only query",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/partialobjects#index-query"
+}
+,{
+  "title":"Background / Partial Objects - JDBC buffers",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/partialobjects#jdbc"
+}
+,{
+  "title":"Background / Partial Objects - Network",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/partialobjects#network"
+}
+,{
+  "title":"Background / Partial Objects - Overview",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/partialobjects#overview"
+}
+,{
+  "title":"Background / Partial Objects - Select / Fetch",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/partialobjects#select-fetch"
+}
+,{
+  "title":"Background / Partial Objects - Videos",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/partialobjects#videos"
+}
+,{
+  "title":"Background / Query Beans - APT / KAPT (generating query beans)",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/typesafe#apt"
+}
+,{
+  "title":"Background / Query Beans - Benefits",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/typesafe#benefits"
+}
+,{
+  "title":"Background / Query Beans - Enhancement",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/typesafe#enhancement"
+}
+,{
+  "title":"Background / Query Beans - Examples",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/typesafe#query-examples"
+}
+,{
+  "title":"Background / Query Beans - Manual generation",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/typesafe#manual-generation"
+}
+,{
+  "title":"Background / Query Beans - Overview",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/typesafe#overview"
+}
+,{
+  "title":"Background / Query Overview - Arbitrarily complex graphs",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/overview#complex-graphs"
+}
+,{
+  "title":"Background / Query Overview - Automatic joins",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/overview#automatic-joins"
+}
+,{
+  "title":"Background / Query Overview - Avoiding Cartesian product",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/overview#cartesian-product"
+}
+,{
+  "title":"Background / Query Overview - FirstRows MaxRows",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/overview#firstrows-maxrows"
+}
+,{
+  "title":"Background / Query Overview - Load Context",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/overview#load-context"
+}
+,{
+  "title":"Background / Query Overview - Loading",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/overview#loading"
+}
+,{
+  "title":"Background / Query Overview - Not a SQL replacement",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/overview#notsqlreplacement"
+}
+,{
+  "title":"Background / Query Overview - Object graph construction",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/overview#construction"
+}
+,{
+  "title":"Background / Query Overview - Origin queries",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/overview#origin-queries"
+}
+,{
+  "title":"Background / Query Overview - Predicates",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/overview#predicates"
+}
+,{
+  "title":"Background / Query Overview - Secondary queries",
+  "caption":"",
+  "category":"Query",
+  "priority":"5",
+  "keywords":"",
+  "url":"/docs/query/background/overview#secondary-queries"
+}
+]
