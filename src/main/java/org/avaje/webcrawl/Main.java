@@ -44,14 +44,14 @@ public class Main {
 
     output = new Output();
 
-    urlRegistry.add("http://localhost/");
-    urlRegistry.add("http://localhost");
+    urlRegistry.add("http://localhost:8080/");
+    urlRegistry.add("http://localhost:8080");
     output.start();
   }
 
   private void start() throws IOException {
 
-    crawl("http://localhost/docs/", 1);
+    crawl("http://localhost:8080/docs/", 1);
     output.end();
   }
 
@@ -138,16 +138,16 @@ public class Main {
     return !exludeUris.contains(uri);
   }
 
-  private final int trimLen = "http://localhost".length();
+  private final int trimLen = "http://localhost:8080".length();
 
   private String toRelativeUri(String url) {
     return url.substring(trimLen);
   }
 
   private boolean isIndexPage(String url) {
-    return (url.startsWith("http://localhost/docs")
+    return (url.startsWith("http://localhost:8080/docs")
 //      || url.startsWith("http://localhost/videos"))
-      && !url.startsWith("http://localhost/docs/setup"));
+      && !url.startsWith("http://localhost:8080/docs/setup"));
   }
 
   private String toLocalUrl(String url) {
